@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>test_article</title>
+    <link href="/2022/05/16/test-article/"/>
+    <url>/2022/05/16/test-article/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2022/05/16/test-article/test.PNG" class="" title="This is an example image">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/05/15/hello-world/"/>
     <url>/2022/05/15/hello-world/</url>
